@@ -69,4 +69,5 @@ endmodule
 <img width="1055" height="653" alt="image" src="https://github.com/user-attachments/assets/5ce0f4f8-0577-4be5-b665-fb98cbb2da9d" />
 
 **RESULTS**
+
 Thus the implement SR flip flop using verilog and validating their functionality using verilog functions.
